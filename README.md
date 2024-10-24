@@ -45,6 +45,3 @@ The UMCS website is a platform to showcase the diverse projects created by membe
 
 ### Phase 6 (March 1 - March 15) - Launch & Promotion
 - Officially launch the website and promote it through university channels.
-
-## Conclusion
-This website will be a dynamic platform that reflects the talent and innovation of UMCS members, while promoting collaboration and providing valuable resources.
